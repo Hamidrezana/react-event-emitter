@@ -1,0 +1,3 @@
+export const EVENTS_NAMES = {
+  SEND_MESSAGE: "SEND_MESSAGE",
+};
